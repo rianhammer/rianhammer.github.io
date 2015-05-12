@@ -3,7 +3,7 @@ layout: post
 title: Fleischbeschau - Einmal Bulgarien und Zurück
 ---
 
-Gerichtsreportage
+## Gerichtsreportage
  
 „Nimm no die Handschellen auf!“, bittet der ORF Redakteur seinen Kameramann. „Das Gesicht hab i aber ned drauf“, „Passt eh, des brauch ma ned“, weiß der Redakteur routiniert zu beruhigen. Die ganze Situation, nachdem der Angeklagte K. in Handschellen um 9 Uhr in den Saal 203 des Wiener Straflandesgericht in Begleitung eines Justizwachebeamten geführt wird, hat etwas von einer Fleischbeschau. Pressefotografen fotografieren beteiligte Personen von allen Seiten. Redakteure von ORF, ATV und Zeitungen holen sich erste Stimmen ein. Visitenkarten wechseln ihren Besitzer.
 
@@ -13,13 +13,18 @@ Die drei Berufsrichter, zwei Männer und eine Frau, betreten den Saal, alle erh
 
 Der Staatsanwalt eröffnet den Prozess und schildert den Tathergang mittels einer gekürzten Aussage des vermeintlichen Opfers Frau Z.. Er gibt ihre Aussagen meist eins zu eins wieder und ist nach einer halben Stunde fürs Erste fertig. Er wirft dem Angeklagten K. vor Frau Z. in einer Wohnung zweimal vergewaltigt zu haben, sie wegen ausstehender Zahlungen für eine Fahrt aus Bulgarien erpresst zu haben, ihr gedroht zu haben, sie in die Prostitution zu schicken oder nach Deutschland zu verkaufen. Dies alles im Beisein der Tochter. Aufgrund der Schwere der vorgeworfenen Vergehen ist diese Verhandlung als Geschworenengericht mit drei Berufsrichtern angesetzt, so wie es die Strafprozessordnung vorsieht. K. nimmt das Eröffnungsplädoyer stoisch zur Kenntnis, ein bißchen Deutsch kann er aber, schließlich hat er auch schon am Brunnenmarkt in Wien gearbeitet.
 Die Dolmetscherin leistet bei der Befragung durch die Richterin und Geschworenen Schwerstarbeit. Ähnlich arbeitsintesiv ist der Tag für die Schriftführerin. Nach einer gefühlten Ewigkeit und der Befragung zum Tathergang wo es sowohl Widersprüche beim Angeklagten als auch bei der Schilderung aus dem Vernehmungsprotokolls des Opfers gibt, Z. ist aus Gründen des Opferschutzes nicht anwesend, kommt Spannung durch Widersprüche bezüglich des Geschlechtsverkehrs auf.
+
 K. hat bei seiner ersten Vernehmung angegeben, keinen Geschlechtsverkehr mit Z. in der Wohnung seines Onkel gehabt zu haben. Dies revidierte er in der zweiten Vernehmung und gab an, es beim ersten Mal aus Schamgefühl nicht erzählt zu haben. „Der Bruder meiner Frau lebt hier in Wien. Ich hatte Angst er erzählt es meiner Frau in Bulgarien.“ K. ́s Frau lebt in Bulgarien mit seinen drei Kindern. Ein Raunen geht durch den Saal. Die Richterin bemerkt:“ Sie nehmen lieber in Kauf ins Gefängnis zu kommen als die Wahrheit zu sagen?“ K. reagiert ertappt und wiederholt was er zuvor gesagt hat.
+
 Die Richterin lässt nicht locker und fragt:“ Hatten sie Angst als Z. ihnen erzählt hat, dass sie ihren Bruder in der Wohnung angerufen habe um ihm zu erzählen, sie haben sie entführt und bedroht das Kind umzubringen, wenn er nicht 1000 € bezahle?“ „Ja, ich hatte Angst.“ „Warum haben sie dann
-Florian Hammer - Gerichtsreportage
 mit ihr geschlafen?“ Etwas vor den Kopf gestoßen erwidert er:“ Sie hat mir dass nach dem Geschlechtsverkehr gesagt.“ „Im Vernehmungsprotokoll steht aber dass es laut ihrer Aussage vorher passiert ist?“ „Ich weiß nicht, Erinnerungen kommen bruchstückhaft.“ Spürbarer Zweifel liegt in der Luft. K. wirkt unsicher.
+
 Eine Pause von einer Stunde, zwischen 13 und 14 Uhr, wird anberaumt bevor es weiter geht. Auf Grund der schwülen Begebenheiten sind alle erleichtert. K. werden die Handschellen angelegt. Er tauscht sich kurz mit seinem bemühten Verteidiger aus. Er wirkt nachdenklich. Die Blässe seiner Haut trägt zum müden Eindruck den er hinterlässt bei.
+
 Bei den restlichen Schilderungen nach der Pause steht dann Aussage gegen Aussage und weitere Fragen lassen aber auch Zweifel an den Schilderungen des vermeintlichen Opfers zu. Der Prozess entwickelt sich nach diesem Tiefpunkt aus Sicht K. ́s in eine positive Richtung für ihn.
+
 Die Polizisten tragen gefühlt zu einer Entlastung K. ́s bei. Den beiden Befragten, ein weiterer war entschuldigt, kam es nicht vor als sei die Festnahme eine bedrohliche Situation gewesen. Z. soll mit ihrem Kind am Übergabeort Westbahnhof ein bis drei Schritte hinter K. gegangen sein. Ein Geschworener fragt:“ Hättens wegrennen können?“ „Ja, wäre möglich gewesen.“. In den Köpfen der Geschworenen geistert nun wohl immer stärker die Frage herum, wie denn das zu einer Entführung und Erpressung passen kann? An die viele Details können sich die Polizisten 9 Monate später aber nicht mehr erinnern. Weswegen wohl noch nichts ausgeschlossen werden kann. Vielleicht hätte man eher mit dem Prozess beginnen sollen, wenn es vor allem auf Aussagen der Beteiligten ankommt und die Beweislage strittig ist, spricht es indirekt aus den Polizisten heraus.
+
 Nach diesen Befragungen und ob der fortgeschrittenen Zeit wird über eine Vertagung beraten. Die kontradiktorische Vernehmung von Z. und ihrem Bruder I. dauern nämlich drei und vier Stunden. Ein Seufzen geht durch die Geschworenen Bank. Objektiv wäre es auch wirklich nicht zumutbar gewesen. K. sitzt erledigt und mit hängenden Schultern auf dem Verhörsessel in mitten des Raumes.
 Die Verständigung über eine Fortsetzung gleicht dann einer Verhandlung auf einem Gemüsestand. August, September oder gar noch später stehen zur Diskussion. Letztendlich tritt doch noch Besinnung in der Runde ein und der Prozess wird auf den nächsten Dienstag vertagt. Dass K.zusätzlich zwei weitere , zu seinen 9 Monaten, in U - Haft hätte verbringen müssen wurde von den Anwesenden vermutlich nicht einmal ignoriert.
 
