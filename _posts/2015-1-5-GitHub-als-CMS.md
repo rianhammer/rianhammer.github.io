@@ -13,5 +13,9 @@ Ich habe mir im Rahmen meiner Master Thesis die Möglichkeit GitHub für das pub
 
 Beruflich arbeite ich als Gestalter im Web- und Printbereich und habe vielleicht deswegen einen anderen Zugang zu diesem Thema. Nichts desto trotz denke ich, dass technologische Kompetenzen im Journalismus helfen, nach der Arbeit an meiner Arbeit (Achtung! Wortwiederholung), im Rahmen des Studiums „Journalismus und neue Medien“ an der [FH Wien der WKW](http://fh-wien.ac.at/), bin ich umso mehr, dieser Meinung.
 
+### Übrigens…
+
+Den Artikel [Hello-World](http://rianhammer.github.io/Hello-World/) habe ich absichtlich in diesem Blog gelassen, weil ich die hervorragende Arbeit von [Barry Clark](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) würdigen möchte. Diese Anleitung hat die Einrichtung dieses Blogs erst möglich gemacht.
+
 
 
