@@ -15,7 +15,7 @@ Beruflich arbeite ich als Gestalter im Web- und Printbereich und habe vielleicht
 
 ### Übrigens…
 
-Den Artikel [Hello-World](http://rianhammer.github.io/Hello-World/) habe ich absichtlich in diesem Blog gelassen, weil ich die hervorragende Arbeit von [Barry Clark](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) würdigen möchte. Diese Anleitung hat die Einrichtung dieses Blogs erst möglich gemacht.
+Den Artikel [Hello-World](http://rianhammer.github.io/Hello-World/) habe ich bewusst in diesem Blog belassen. Ich möchte damit die hervorragende Arbeit von [Barry Clark](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) würdigen. Seine anschauliche Anleitung hat die Einrichtung dieses Blogs erst ermöglicht.
 
 
 
