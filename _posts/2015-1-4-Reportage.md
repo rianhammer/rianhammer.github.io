@@ -3,8 +3,11 @@ layout: post
 title: Fleischbeschau - Einmal Bulgarien und Zurück
 ---
 
+Die Gerichtsreportage beschreibt die Alltäglichkeit und das Besondere einer Gerichtsverhandlung am Wr. Landesgericht. 
+Es geht um Entführung, Erpressung und polizeiliche und richterliche Arbeit.
+
 ## Gerichtsreportage
- 
+
 „Nimm no die Handschellen auf!“, bittet der ORF Redakteur seinen Kameramann. „Das Gesicht hab i aber ned drauf“, „Passt eh, des brauch ma ned“, weiß der Redakteur routiniert zu beruhigen. Die ganze Situation, nachdem der Angeklagte K. in Handschellen um 9 Uhr in den Saal 203 des Wiener Straflandesgericht in Begleitung eines Justizwachebeamten geführt wird, hat etwas von einer Fleischbeschau. Pressefotografen fotografieren beteiligte Personen von allen Seiten. Redakteure von ORF, ATV und Zeitungen holen sich erste Stimmen ein. Visitenkarten wechseln ihren Besitzer.
 
 Die acht Geschworenen werden zu ihren Plätzen begleitet. Staatsanwalt, Opfervertreterin, Verteidiger, Sachverständige und Dolmetscherin nehmen Platz. K. ist gebürtiger Bulgare, aber gehört einer türkisch-bulgarischen Minderheit an und spricht auch besser Türkisch als Bulgarisch. Aus diesem Grund findet die Befragung auf türkisch statt.
@@ -26,7 +29,7 @@ Bei den restlichen Schilderungen nach der Pause steht dann Aussage gegen Aussage
 Die Polizisten tragen gefühlt zu einer Entlastung K. ́s bei. Den beiden Befragten, ein weiterer war entschuldigt, kam es nicht vor als sei die Festnahme eine bedrohliche Situation gewesen. Z. soll mit ihrem Kind am Übergabeort Westbahnhof ein bis drei Schritte hinter K. gegangen sein. Ein Geschworener fragt:“ Hättens wegrennen können?“ „Ja, wäre möglich gewesen.“. In den Köpfen der Geschworenen geistert nun wohl immer stärker die Frage herum, wie denn das zu einer Entführung und Erpressung passen kann? An die viele Details können sich die Polizisten 9 Monate später aber nicht mehr erinnern. Weswegen wohl noch nichts ausgeschlossen werden kann. Vielleicht hätte man eher mit dem Prozess beginnen sollen, wenn es vor allem auf Aussagen der Beteiligten ankommt und die Beweislage strittig ist, spricht es indirekt aus den Polizisten heraus.
 
 Nach diesen Befragungen und ob der fortgeschrittenen Zeit wird über eine Vertagung beraten. Die kontradiktorische Vernehmung von Z. und ihrem Bruder I. dauern nämlich drei und vier Stunden. Ein Seufzen geht durch die Geschworenen Bank. Objektiv wäre es auch wirklich nicht zumutbar gewesen. K. sitzt erledigt und mit hängenden Schultern auf dem Verhörsessel in mitten des Raumes.
-Die Verständigung über eine Fortsetzung gleicht dann einer Verhandlung auf einem Gemüsestand. August, September oder gar noch später stehen zur Diskussion. Letztendlich tritt doch noch Besinnung in der Runde ein und der Prozess wird auf den nächsten Dienstag vertagt. Dass K.zusätzlich zwei weitere , zu seinen 9 Monaten, in U - Haft hätte verbringen müssen wurde von den Anwesenden vermutlich nicht einmal ignoriert.
+Die Verständigung über eine Fortsetzung gleicht dann einer Verhandlung auf einem Gemüsestand. August, September oder gar noch später stehen zur Diskussion. Letztendlich tritt doch noch Besinnung in der Runde ein und der Prozess wird auf den nächsten Dienstag vertagt. Dass K.zusätzlich zwei weitere, zu seinen 9 Monaten, in U - Haft hätte verbringen müssen, wurde von den Anwesenden vermutlich nicht einmal ignoriert.
 
 #### Zusatzinformation: Ausgang der Verhandlung
 
